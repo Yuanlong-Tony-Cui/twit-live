@@ -1,4 +1,8 @@
-# hackapp
+# TwitLive
+
+## Intro
+
+This project was completed with Waisze during Genesys Toronto Hackathon.
 
 ## Project setup
 ```
